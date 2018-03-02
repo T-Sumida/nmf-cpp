@@ -29,5 +29,5 @@ $ ./a.out
 C++11
 
 
-## Licence
+## License
 Copyright © 2016 T_Sumida Distributed under the MIT License.
